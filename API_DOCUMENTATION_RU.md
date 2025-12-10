@@ -1,4 +1,4 @@
-## [Blockchair.com](https://blockchair.com/) API v.2.0.10 - документация
+## [Blockchair.com](483cc1a6-db56-43ba-b4c4-3fa0ce50b005) API v.2.0.10 - документация
 
 ![Blockchair logo](https://blockchair.com/images/logo_full.png "Blockchair logo")
 
